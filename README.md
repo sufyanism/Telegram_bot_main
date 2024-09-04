@@ -14,5 +14,3 @@
 - Now let’s choose a username for your bot. It must end in "bot".
 - Use this token to access the HTTP API: `TOKEN`. Paste into the code
 
-# Screenshot
-![Navaan_in_red_check_shirt](https://github.com/user-attachments/assets/c0b4786c-7600-4a30-9761-f7d1587c695c)
