@@ -4,6 +4,7 @@ import requests # type: ignore
 import os
 
 PORT = os.environ.get("TELEGRAM_ID")
+TOKEN_Tellegram = "5147821908--"
 
 FIRST,SONGS, HELP= range(3)
 
@@ -150,7 +151,7 @@ def songs(bot, update):
     
 # Main method
 def main():
-    updater = Updater("5147821908:AAEcjnbgFXtUfI41AADsYag8-7j8HKyM5KI")
+    updater = Updater("TOKEN")
     print(updater)
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler('start', start)],
