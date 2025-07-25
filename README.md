@@ -1,12 +1,12 @@
 # Python based telegram bot
 
-# Run command to install packages
+## Run command to install packages
 - `pip install -r requirements.txt`
 
-# Run this project
+## Run this project
 `python Bot.py`
 
-# Steps to create project
+## Steps to create project
 - Open Telegram
 - Search @ botfather
 - Type /newbot
