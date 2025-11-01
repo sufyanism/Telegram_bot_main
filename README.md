@@ -1,4 +1,4 @@
-# Python based telegram bot
+# Python based telegram bot 🤖 👁️‍🗨️
 
 ## Register the Bot
 Before you can make a Telegram bot, you must have a Telegram user account.  If you don't already have an account, go to Telegram and create one. Search for `BotFather` (a bot that controls all other Telegram bots) after logging in, then launch a new conversation with it.  To register a new bot with the BotFather, take the actions listed below:
