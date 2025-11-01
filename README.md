@@ -3,10 +3,10 @@
 ## Register the Bot
 Before you can make a Telegram bot, you must have a Telegram user account.  If you don't already have an account, go to Telegram and create one. Search for `BotFather` (a bot that controls all other Telegram bots) after logging in, then launch a new conversation with it.  To register a new bot with the BotFather, take the actions listed below:
 
-`1.` Type /start and press send.
-`2.` Type /newbot and press send.
-`3.` Choose a name for your bot.
-`4.` Choose a username for your bot that ends in "bot".
+`1.` Type /start and press send. <br/>
+`2.` Type /newbot and press send. <br/>
+`3.` Choose a name for your bot. <br/>
+`4.` Choose a username for your bot that ends in "bot". <br/>
 
 The BotFather will reply by sending you a message containing the access key for your freshly created bot.  This access token will allow our application to interact with the Telegram API and provide instructions to our bot on how to respond to different user messages.
 The bot will respond to /start and echo any messages you send it.
